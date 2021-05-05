@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @outrun32
+- 👀 I’m interested in machine learning and its implementation in Unity
+- 🌱 I’m currently learning convolutional neural network models
+- 📫 How to reach me: jakovsap@gmail.com
